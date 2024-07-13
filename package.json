@@ -1,0 +1,31 @@
+{
+  "name": "aoc20",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonmuzzy/aoc20.git"
+  },
+  "keywords": [
+    "AoC",
+    "Advent"
+  ],
+  "author": "Jason Muzzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonmuzzy/aoc20/issues"
+  },
+  "homepage": "https://github.com/jasonmuzzy/aoc20#readme",
+  "dependencies": {
+    "aoc-copilot": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
