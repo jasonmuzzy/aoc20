@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/jasonmuzzy/aoc20#readme",
   "dependencies": {
-    "aoc-copilot": "^1.0.2"
+    "aoc-copilot": "^1.2.1"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",

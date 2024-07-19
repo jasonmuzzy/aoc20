@@ -40,7 +40,6 @@ async function solve(inputs: string[], part: number, test: boolean, additionalIn
                     })) {
                         answer++;
                     }
-                
                 }
             }
             kvs = [];
