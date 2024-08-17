@@ -19,6 +19,19 @@
             "sourceMaps": true,
             "cwd": "${workspaceRoot}",
             "console": "integratedTerminal",
+        },
+        {
+            "name": "Current JS File",
+            "type": "node",
+            "request": "launch",
+            "args": [
+                "${relativeFile}"
+            ],
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "cwd": "${workspaceRoot}",
+            "console": "integratedTerminal",
         }
     ]
 }
