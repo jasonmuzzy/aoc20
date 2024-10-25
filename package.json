@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/jasonmuzzy/aoc20#readme",
   "dependencies": {
-    "aoc-copilot": "^1.2.5"
+    "aoc-copilot": "^1.5.1"
   },
   "devDependencies": {
-    "@types/node": "^22.1.0",
+    "@types/node": "^22.8.0",
     "ts-node": "^10.9.2",
-    "typescript": "^5.5.4"
+    "typescript": "^5.6.3"
   }
 }

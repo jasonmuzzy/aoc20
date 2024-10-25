@@ -2,7 +2,6 @@ import { run } from 'aoc-copilot';
 
 async function solve(inputs: string[], part: number, test: boolean, additionalInfo?: { [key:string]: string }): Promise<number | string> {
     let answer = 0;
-    // throw new Error('Not implemented');
     for (let i = 0; i < inputs.length; i++) {
         for (let j = i + 1; j < inputs.length; j++) {
             if (part == 1) {

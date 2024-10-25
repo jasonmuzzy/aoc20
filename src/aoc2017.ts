@@ -1,6 +1,6 @@
 import { run } from 'aoc-copilot';
 
-import { product, range, xyArray } from './utils';
+import { product, range, xyArray } from 'aoc-copilot/dist/utils';
 
 async function solve(inputs: string[], part: number, test: boolean, additionalInfo?: { [key: string]: string }): Promise<number | string> {
     let answer = 0;
